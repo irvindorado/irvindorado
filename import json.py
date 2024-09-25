@@ -1,3 +1,5 @@
+#Find out whos not following you on Instagram (need to download your Meta information in JSON file)
+
 import json
 
 followers_file = '/Users/'[filepath]'/followers_and_following/followers_1.json'
